@@ -122,7 +122,7 @@ header a:hover{
     min-height: 400px;
     /* below was as advised however did not show image, therefore MDN advised background-image: url(img/showcase.jpg); */
     /*background-image:url('img/showcase.jpg') no-repeat 0 -400px;*/
-    background-image: url(img/simp1.jpg);
+    background-image: url(simp1.jpg);
     
     background-size: cover;
     text-align: center;  
